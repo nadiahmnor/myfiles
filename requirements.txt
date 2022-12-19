@@ -3,4 +3,4 @@ pandas
 streamlit
 seaborn
 matplotlib
-numpy2
+numpy
